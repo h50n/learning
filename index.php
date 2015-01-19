@@ -4,6 +4,8 @@
 
 	"This is a change I am making";
 
+	"Just made another change";
+
 
 
 	if (!empty($_SERVER['HTTPS']) && ('on' == $_SERVER['HTTPS'])) {
